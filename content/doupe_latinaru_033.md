@@ -1,9 +1,8 @@
 ---
-title: ''
+title: Jednou
+hiddenTitle: true
 contentType: prose
 ---
-
-Jednou
 
 Jednou  
 jen kousek od nádraží  

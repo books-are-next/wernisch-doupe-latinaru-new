@@ -1,9 +1,8 @@
 ---
-title: ''
+title: Šel
+hiddenTitle: true
 contentType: prose
 ---
-
-Šel
 
 Šel,  
 a ať přišel kam přišel,  

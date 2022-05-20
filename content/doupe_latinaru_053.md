@@ -3,7 +3,7 @@ title: Prší
 contentType: prose
 ---
 
-(Podle)
+_(Podle)_
 
 Prší  
 a cikáni zapadli do výčepu.  

@@ -1,9 +1,8 @@
 ---
-title: ''
+title: Baže
+hiddenTitle: true
 contentType: prose
 ---
-
-Baže
 
 Baže, onanisté,  
 ti mají své jisté  

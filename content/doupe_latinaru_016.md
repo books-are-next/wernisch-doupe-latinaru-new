@@ -3,7 +3,7 @@ title: Doupě latinářů
 contentType: prose
 ---
 
-Evženu Brikciusovi
+_Evženu Brikciusovi_
 
   
 

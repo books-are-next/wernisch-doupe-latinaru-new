@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Doupě latinářů</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>(Dobrý vkus)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_006.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Otravná pohádka pro otravná pacholátka</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_007.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Mecenáš Hlávka jednoho večera</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_008.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Dobrá rada</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_009.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Zvrhlík</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_010.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>A tohle město</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_011.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Malý kouzelník</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_012.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Vyvrcholení žádostných slastí</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_013.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Náčrt dvou i více básní</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_014.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>To jsou řeči</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_015.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Doupě latinářů</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_016.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Poučení o perspektivě</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_017.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Kanape</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_018.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Lidé z jedné vsi a lidé z druhé vsi</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_019.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Zlý pes</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_020.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Náhlé vzplanutí</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_022.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Tři sousedé</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_023.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Feng Meng-long o Liovi Dong-jangovi</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_024.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Tři Fuové</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_025.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Tři sousedé</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_026.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>A jiný Bedřich</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_027.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Nesetkání</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_028.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>A jindy</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_029.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Náčrt básně</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_031.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>(To víte, malé město je malé)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_032.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Kolotoč</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_034.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Náčrt básně</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_035.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>(Se zájmem pozoruji)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_037.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Dlouhý den</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_038.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>(Již slunce přestávalo jej těšiti)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_039.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Strašidelný pivovar</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_040.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Ji Yung vypráví</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_041.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>(Psaní básní je zírání na papír)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_042.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Mecenáš Hlávka jednoho dopoledne</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_043.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Zasláno</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_044.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Zasláno</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_045.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Časné odpoledne</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_046.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>V zámeckém parku</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_047.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Jarní vlání</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_048.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>(Když měl být provozován)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_049.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Konec světa</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_050.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Rybí zpěv</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_051.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Byl jednou jeden Bedřich</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_052.xhtml#toc_marker-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Prší</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_053.xhtml#toc_marker-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>O ženách, které vařily kaši</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_054.xhtml#toc_marker-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Půpa a djojo</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_055.xhtml#toc_marker-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>(Zamžourá jedním)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_056.xhtml#toc_marker-47"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>(Vracel jsem se kamsi)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_057.xhtml#toc_marker-48"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Sibiřská pohádka</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_058.xhtml#toc_marker-49"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Sborová deklamace</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_060.xhtml#toc_marker-50"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Město</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_061.xhtml#toc_marker-51"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Stmívání v Uhrách</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_062.xhtml#toc_marker-52"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>(A není snad proč býti vesel?)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_063.xhtml#toc_marker-53"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>(V domě kupce Ivanova)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_064.xhtml#toc_marker-54"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>To kdy kdo</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_065.xhtml#toc_marker-55"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Když není vyhnutí</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_066.xhtml#toc_marker-56"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>(Nepovažuji za vyloučené)</text>
+      </navLabel>
+      <content src="Text/doupe_latinaru_067.xhtml#toc_marker-57"/>
+    </navPoint>
+  </navMap>
+</ncx>

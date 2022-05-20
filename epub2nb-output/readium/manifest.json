@@ -1,0 +1,546 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Doupě latinářů",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Ivan Wernisch",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-11-07T00:00:00.000Z",
+    "published": "2019-11-06T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/doupe_latinaru_068.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/doupe_lati_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_doupe_latinaru_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "(Dobrý vkus)",
+      "href": "OEBPS/Text/doupe_latinaru_006.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Otravná pohádka pro otravná pacholátka",
+      "href": "OEBPS/Text/doupe_latinaru_007.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Mecenáš Hlávka jednoho večera",
+      "href": "OEBPS/Text/doupe_latinaru_008.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Dobrá rada",
+      "href": "OEBPS/Text/doupe_latinaru_009.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Zvrhlík",
+      "href": "OEBPS/Text/doupe_latinaru_010.xhtml#toc_marker-5"
+    },
+    {
+      "title": "A tohle město",
+      "href": "OEBPS/Text/doupe_latinaru_011.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Malý kouzelník",
+      "href": "OEBPS/Text/doupe_latinaru_012.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Vyvrcholení žádostných slastí",
+      "href": "OEBPS/Text/doupe_latinaru_013.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Náčrt dvou i více básní",
+      "href": "OEBPS/Text/doupe_latinaru_014.xhtml#toc_marker-9"
+    },
+    {
+      "title": "To jsou řeči",
+      "href": "OEBPS/Text/doupe_latinaru_015.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Doupě latinářů",
+      "href": "OEBPS/Text/doupe_latinaru_016.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Poučení o perspektivě",
+      "href": "OEBPS/Text/doupe_latinaru_017.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Kanape",
+      "href": "OEBPS/Text/doupe_latinaru_018.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Lidé z jedné vsi a lidé z druhé vsi",
+      "href": "OEBPS/Text/doupe_latinaru_019.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Zlý pes",
+      "href": "OEBPS/Text/doupe_latinaru_020.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Náhlé vzplanutí",
+      "href": "OEBPS/Text/doupe_latinaru_022.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Tři sousedé",
+      "href": "OEBPS/Text/doupe_latinaru_023.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Feng Meng-long o Liovi Dong-jangovi",
+      "href": "OEBPS/Text/doupe_latinaru_024.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Tři Fuové",
+      "href": "OEBPS/Text/doupe_latinaru_025.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Tři sousedé",
+      "href": "OEBPS/Text/doupe_latinaru_026.xhtml#toc_marker-20"
+    },
+    {
+      "title": "A jiný Bedřich",
+      "href": "OEBPS/Text/doupe_latinaru_027.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Nesetkání",
+      "href": "OEBPS/Text/doupe_latinaru_028.xhtml#toc_marker-22"
+    },
+    {
+      "title": "A jindy",
+      "href": "OEBPS/Text/doupe_latinaru_029.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Náčrt básně",
+      "href": "OEBPS/Text/doupe_latinaru_031.xhtml#toc_marker-24"
+    },
+    {
+      "title": "(To víte, malé město je malé)",
+      "href": "OEBPS/Text/doupe_latinaru_032.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Kolotoč",
+      "href": "OEBPS/Text/doupe_latinaru_034.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Náčrt básně",
+      "href": "OEBPS/Text/doupe_latinaru_035.xhtml#toc_marker-27"
+    },
+    {
+      "title": "(Se zájmem pozoruji)",
+      "href": "OEBPS/Text/doupe_latinaru_037.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Dlouhý den",
+      "href": "OEBPS/Text/doupe_latinaru_038.xhtml#toc_marker-29"
+    },
+    {
+      "title": "(Již slunce přestávalo jej těšiti)",
+      "href": "OEBPS/Text/doupe_latinaru_039.xhtml#toc_marker-30"
+    },
+    {
+      "title": "Strašidelný pivovar",
+      "href": "OEBPS/Text/doupe_latinaru_040.xhtml#toc_marker-31"
+    },
+    {
+      "title": "Ji Yung vypráví",
+      "href": "OEBPS/Text/doupe_latinaru_041.xhtml#toc_marker-32"
+    },
+    {
+      "title": "(Psaní básní je zírání na papír)",
+      "href": "OEBPS/Text/doupe_latinaru_042.xhtml#toc_marker-33"
+    },
+    {
+      "title": "Mecenáš Hlávka jednoho dopoledne",
+      "href": "OEBPS/Text/doupe_latinaru_043.xhtml#toc_marker-34"
+    },
+    {
+      "title": "Zasláno",
+      "href": "OEBPS/Text/doupe_latinaru_044.xhtml#toc_marker-35"
+    },
+    {
+      "title": "Zasláno",
+      "href": "OEBPS/Text/doupe_latinaru_045.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Časné odpoledne",
+      "href": "OEBPS/Text/doupe_latinaru_046.xhtml#toc_marker-37"
+    },
+    {
+      "title": "V zámeckém parku",
+      "href": "OEBPS/Text/doupe_latinaru_047.xhtml#toc_marker-38"
+    },
+    {
+      "title": "Jarní vlání",
+      "href": "OEBPS/Text/doupe_latinaru_048.xhtml#toc_marker-39"
+    },
+    {
+      "title": "(Když měl být provozován)",
+      "href": "OEBPS/Text/doupe_latinaru_049.xhtml#toc_marker-40"
+    },
+    {
+      "title": "Konec světa",
+      "href": "OEBPS/Text/doupe_latinaru_050.xhtml#toc_marker-41"
+    },
+    {
+      "title": "Rybí zpěv",
+      "href": "OEBPS/Text/doupe_latinaru_051.xhtml#toc_marker-42"
+    },
+    {
+      "title": "Byl jednou jeden Bedřich",
+      "href": "OEBPS/Text/doupe_latinaru_052.xhtml#toc_marker-43"
+    },
+    {
+      "title": "Prší",
+      "href": "OEBPS/Text/doupe_latinaru_053.xhtml#toc_marker-44"
+    },
+    {
+      "title": "O ženách, které vařily kaši",
+      "href": "OEBPS/Text/doupe_latinaru_054.xhtml#toc_marker-45"
+    },
+    {
+      "title": "Půpa a djojo",
+      "href": "OEBPS/Text/doupe_latinaru_055.xhtml#toc_marker-46"
+    },
+    {
+      "title": "(Zamžourá jedním)",
+      "href": "OEBPS/Text/doupe_latinaru_056.xhtml#toc_marker-47"
+    },
+    {
+      "title": "(Vracel jsem se kamsi)",
+      "href": "OEBPS/Text/doupe_latinaru_057.xhtml#toc_marker-48"
+    },
+    {
+      "title": "Sibiřská pohádka",
+      "href": "OEBPS/Text/doupe_latinaru_058.xhtml#toc_marker-49"
+    },
+    {
+      "title": "Sborová deklamace",
+      "href": "OEBPS/Text/doupe_latinaru_060.xhtml#toc_marker-50"
+    },
+    {
+      "title": "Město",
+      "href": "OEBPS/Text/doupe_latinaru_061.xhtml#toc_marker-51"
+    },
+    {
+      "title": "Stmívání v Uhrách",
+      "href": "OEBPS/Text/doupe_latinaru_062.xhtml#toc_marker-52"
+    },
+    {
+      "title": "(A není snad proč býti vesel?)",
+      "href": "OEBPS/Text/doupe_latinaru_063.xhtml#toc_marker-53"
+    },
+    {
+      "title": "(V domě kupce Ivanova)",
+      "href": "OEBPS/Text/doupe_latinaru_064.xhtml#toc_marker-54"
+    },
+    {
+      "title": "To kdy kdo",
+      "href": "OEBPS/Text/doupe_latinaru_065.xhtml#toc_marker-55"
+    },
+    {
+      "title": "Když není vyhnutí",
+      "href": "OEBPS/Text/doupe_latinaru_066.xhtml#toc_marker-56"
+    },
+    {
+      "title": "(Nepovažuji za vyloučené)",
+      "href": "OEBPS/Text/doupe_latinaru_067.xhtml#toc_marker-57"
+    }
+  ]
+}

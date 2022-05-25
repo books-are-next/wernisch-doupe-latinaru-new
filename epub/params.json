@@ -38,7 +38,7 @@
             "filename": "doupe_latinaru_001.md",
             "xhtml": "doupe_latinaru_001.xhtml",
             "id": 0,
-            "role": "cover",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -50,7 +50,7 @@
             "filename": "doupe_latinaru_002.md",
             "xhtml": "doupe_latinaru_002.xhtml",
             "id": 1,
-            "role": "promo",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -62,7 +62,7 @@
             "filename": "doupe_latinaru_003.md",
             "xhtml": "doupe_latinaru_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -74,7 +74,7 @@
             "filename": "doupe_latinaru_004.md",
             "xhtml": "doupe_latinaru_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -105,7 +105,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_007.md",
@@ -441,7 +441,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_033.md",
@@ -504,7 +504,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_038.md",
@@ -530,7 +530,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_040.md",
@@ -569,7 +569,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_043.md",
@@ -660,7 +660,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_050.md",
@@ -751,7 +751,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_057.md",
@@ -764,7 +764,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_058.md",
@@ -854,7 +854,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_065.md",
@@ -893,13 +893,13 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "* * *"
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_068.md",
             "xhtml": "doupe_latinaru_068.xhtml",
             "id": 67,
-            "role": "colophon",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,

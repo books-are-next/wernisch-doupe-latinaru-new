@@ -10,9 +10,6 @@ meta:
   author: Ivan Wernisch
   publisher: Městská knihovna v Praze
   modified: '2019-11-07T00:00:00.000Z'
-  contentType: prose
-  publisherShort: mkp
-  edition: beletrie
 readingOrder:
   - promo.html
   - doupe_latinaru_005.html
@@ -83,8 +80,8 @@ tocBase:
   - id: section-1
     children:
       - link: doupe_latinaru_006.html
-        title: (Dobrý vkus)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_007.html
         title: Otravná pohádka pro otravná pacholátka
         hiddenTitle: false
@@ -127,9 +124,6 @@ tocBase:
       - link: doupe_latinaru_020.html
         title: Zlý pes
         hiddenTitle: false
-      - link: doupe_latinaru_021.html
-        title: Z mého života
-        hiddenTitle: true
       - link: doupe_latinaru_022.html
         title: Náhlé vzplanutí
         hiddenTitle: false
@@ -154,36 +148,27 @@ tocBase:
       - link: doupe_latinaru_029.html
         title: "A\_jindy"
         hiddenTitle: false
-      - link: doupe_latinaru_030.html
-        title: Baže
-        hiddenTitle: true
       - link: doupe_latinaru_031.html
         title: Náčrt básně
         hiddenTitle: false
       - link: doupe_latinaru_032.html
-        title: (To víte, malé město je malé)
-        hiddenTitle: true
-      - link: doupe_latinaru_033.html
-        title: Jednou
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_034.html
         title: Kolotoč
         hiddenTitle: false
       - link: doupe_latinaru_035.html
         title: Náčrt básně
         hiddenTitle: false
-      - link: doupe_latinaru_036.html
-        title: Šel
-        hiddenTitle: true
       - link: doupe_latinaru_037.html
-        title: (Se zájmem pozoruji)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_038.html
         title: Dlouhý den
         hiddenTitle: false
       - link: doupe_latinaru_039.html
-        title: (Již slunce přestávalo jej těšiti)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_040.html
         title: Strašidelný pivovar
         hiddenTitle: false
@@ -191,8 +176,8 @@ tocBase:
         title: Ji Yung vypráví
         hiddenTitle: false
       - link: doupe_latinaru_042.html
-        title: (Psaní básní je zírání na papír)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_043.html
         title: Mecenáš Hlávkajednoho dopoledne
         hiddenTitle: false
@@ -212,8 +197,8 @@ tocBase:
         title: Jarní vlání
         hiddenTitle: false
       - link: doupe_latinaru_049.html
-        title: (Když měl být provozován)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_050.html
         title: Konec světa
         hiddenTitle: false
@@ -233,17 +218,14 @@ tocBase:
         title: "Půpa a\_djojo"
         hiddenTitle: false
       - link: doupe_latinaru_056.html
-        title: (Zamžourá jedním)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_057.html
-        title: (Vracel jsem se kamsi)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_058.html
         title: Sibiřská pohádka
         hiddenTitle: false
-      - link: doupe_latinaru_059.html
-        title: Z cara Maximiliána
-        hiddenTitle: true
       - link: doupe_latinaru_060.html
         title: Sborová deklamace
         hiddenTitle: false
@@ -254,11 +236,11 @@ tocBase:
         title: "Stmívání v\_Uhrách"
         hiddenTitle: false
       - link: doupe_latinaru_063.html
-        title: (A není snad proč býti vesel?)
-        hiddenTitle: true
+        title: "↓\_↓\_↓Petru Kabešovi"
+        hiddenTitle: false
       - link: doupe_latinaru_064.html
-        title: (V domě kupce Ivanova)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
       - link: doupe_latinaru_065.html
         title: To kdy kdo
         hiddenTitle: false
@@ -266,8 +248,8 @@ tocBase:
         title: Když není vyhnutí
         hiddenTitle: false
       - link: doupe_latinaru_067.html
-        title: (Nepovažuji za vyloučené)
-        hiddenTitle: true
+        title: '* * *'
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

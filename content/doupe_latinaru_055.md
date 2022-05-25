@@ -3,7 +3,7 @@ title: "Půpa a\_djojo"
 contentType: prose
 ---
 
-_(Podle Frobenia)_
+(Podle Frobenia)
 
   
 

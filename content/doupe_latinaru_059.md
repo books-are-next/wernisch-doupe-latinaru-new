@@ -1,10 +1,11 @@
 ---
-title: "Z\_cara Maxmiliána"
-hiddenTitle: true
+title: ''
 contentType: prose
 ---
 
-_(Podle)_
+Z cara Maxmiliána
+
+(Podle)
 
 — Kdo jsi.  
 — Jsemť já dochtor líkař,  

@@ -6,13 +6,10 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Wernisch",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-11-07T00:00:00.000Z",
-      "contentType": "prose",
-      "publisherShort": "mkp",
-      "edition": "beletrie"
+      "modified": "2019-11-07T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP-uroven2-kapitola\nMLP-uroven2-basne",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -25,8 +22,8 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis--I\nMLP-dopis-podpis--I",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": "",
       "verse": "MLP-verse\nMLP-verse.+"
@@ -106,9 +103,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Dobrý vkus)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_007.md",
@@ -301,9 +298,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Z mého života"
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_022.md",
@@ -418,9 +414,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Baže"
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_031.md",
@@ -444,9 +439,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(To víte, malé město je malé)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_033.md",
@@ -457,9 +452,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Jednou"
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_034.md",
@@ -496,9 +490,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Šel"
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_037.md",
@@ -509,9 +502,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Se zájmem pozoruji)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_038.md",
@@ -535,9 +528,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Již slunce přestávalo jej těšiti)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_040.md",
@@ -574,9 +567,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Psaní básní je zírání na papír)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_043.md",
@@ -665,9 +658,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Když měl být provozován)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_050.md",
@@ -756,9 +749,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Zamžourá jedním)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_057.md",
@@ -769,9 +762,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Vracel jsem se kamsi)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_058.md",
@@ -795,9 +788,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Z cara Maximiliána"
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_060.md",
@@ -847,9 +839,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(A není snad proč býti vesel?)"
+            "title": "↓ ↓ ↓Petru Kabešovi"
           },
           {
             "filename": "doupe_latinaru_064.md",
@@ -860,9 +852,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(V domě kupce Ivanova)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_065.md",
@@ -899,9 +891,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
+            "hiddenTitle": false,
             "children": [],
-            "title": "(Nepovažuji za vyloučené)"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_068.md",

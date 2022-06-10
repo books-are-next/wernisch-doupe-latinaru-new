@@ -3,8 +3,6 @@ title: Tři sousedé
 contentType: prose
 ---
 
-  
-
 Tři sousedé se přeli, kdo z nich dává více milodarů na sirotky. Ten první povídá: Já dávám tolik milodarů na sirotky, že mě z toho někdy brní hlava. – Pch! na to druhý. To já dávám tolik milodarů na sirotky, že někdy zapomínám, kdo jsem! – Pche! zvolal třetí. Já dávám tolik milodarů na sirotky, že nejen zapomínám, kdo jsem, a brní mě z toho hlava, já dokonce vůbec nevím, co dělám! –
 
 Ohó! pravil první. To já tuhle, jak byla ta velká voda, jsem se rozběhl rovnou přes řeku, jako by hned vedle ani nebyl most. Normální člověk by se utopil, ale já přešel na druhý břeh, úplně suchý, jako kdyby nic! –

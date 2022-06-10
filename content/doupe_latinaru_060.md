@@ -3,8 +3,6 @@ title: Sborová deklamace
 contentType: prose
 ---
 
-  
-
 Deklamovali, anebo byli deklamováni: Jasiński, Petr Anikič, Mark Patrikjevič, generál Ďukov, Ščerbakov, Gavrila a nějaký Gorděj, toho jsem dobře znal.
 
 Dál vrchní rada čestný plukovník andělského vojska Kwiat­kowski, paní Swiglińská, Spiridon Serapidonovič, otec Ilarij. Nikoli lidé. Postavy z nějakého románu.

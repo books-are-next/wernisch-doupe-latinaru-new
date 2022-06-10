@@ -3,8 +3,6 @@ title: Kolotoč
 contentType: prose
 ---
 
-  
-
 Zaručeně pravý příběh ze života. Předneseno stolní společnosti v Z.:
 
 Vystoupil jsem z vlaku, vypráví podomní prodavač talmudů a biblí, v malém městečku v Bukovině. Najal jsem drožku, a než jsem se v ní stačil usadit, stála před hotelem. Jmenoval se Nový York a zdálo se, že bude útulný.

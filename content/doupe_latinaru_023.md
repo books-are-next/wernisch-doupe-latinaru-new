@@ -3,8 +3,6 @@ title: Tři sousedé
 contentType: prose
 ---
 
-  
-
 Tři sousedé, Hýta, Batul a lord Fountleroy, si vyšli do polí. Jdou, tu se Hýta shýbne a zvedne kámen.
 
 „Pohleďte,“ praví. „Takový kámen jsem ještě neviděl.“

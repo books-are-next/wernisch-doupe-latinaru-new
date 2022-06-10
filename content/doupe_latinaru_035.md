@@ -3,8 +3,6 @@ title: Náčrt básně
 contentType: prose
 ---
 
-  
-
 Výběrčí poplatků vstoupí do domu, kde je vše náramně podezřelé. Zvonek nezazvoní a někde uvnitř umlkne pláč. Nahoře něco bouchne. Skříň pod schody je přesně taková, do jaké je možno ukrýt mrtvolu.
 
 Za prosklenými dveřmi předsíně se zjeví příšerně znetvořená tvář: zakrslý šilhavec s rozplesklým nosem a vyplazeným jazykem neodpovídá na pozdrav.

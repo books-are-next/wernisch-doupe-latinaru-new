@@ -3,8 +3,6 @@ title: "Lidé z\_jedné vsia\_lidé z\_druhé vsi"
 contentType: prose
 ---
 
-  
-
 Lidé z jedné vsi si jednoho dne řekli: Jak asi žijí naši sousedé? Půjdeme k nim na návštěvu a uvidíme. To si řekli a hned se se všemi svými ženami a dětmi vypravili na cestu do vedlejší vsi.
 
   

@@ -3,8 +3,6 @@ title: Když není vyhnutí
 contentType: prose
 ---
 
-  
-
 Když už není vyhnutí a vydáváme se na cestu, nesmíme zapomenout na nikoho z těch, kteří dosud jen přebývali v našem domě, necháme prohledat i maštal a kůlny a přivést každého, kdo ještě nebyl k užitku. A najdeme toho, kdo dovede zpívat píseň proti hadům, a toho, kdo se umí ptát na cestu, a toho, kdo ponese zbraň.
 
   

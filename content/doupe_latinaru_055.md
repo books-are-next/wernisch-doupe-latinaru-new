@@ -5,8 +5,6 @@ contentType: prose
 
 (Podle Frobenia)
 
-  
-
 Půpa a djojo spolu žili v lese. To bylo tenkrát. Tenkrát ještě nežili ti dva na svých místech, ale venku v lese.
 
 Jednou neměli půpa a djojo co jíst. Oba měli velký hlad. Půpa řekla: „Dneska mám chuť na rybu.“ Djojo řekl: „Taky mám dneska chuť na rybu.“ Půpa vzala síť a šla k řece. Djojo šel za ní. Půpa začala chytat ryby. Půpa chytila hodně ryb. Půpa ryby vzala a šla s nimi domů. Půpa ryby vařila, vzala pepř a sůl, uvařila dobré jídlo. Když jídlo uvařila, snědla ho. Djojo řekl: „Dej mi také něco k jídlu.“ Půpa mu dala trochu pepře a řekla: „Najez se pepře. Žádnou rybu už nemám.“

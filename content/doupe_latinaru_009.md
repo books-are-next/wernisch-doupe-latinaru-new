@@ -3,8 +3,6 @@ title: Dobrá rada
 contentType: prose
 ---
 
-  
-
 Jednomu Bedřichovi se udělala na nose nepříjemná vyrážka. Neškrábej si to, nabádala jej starostlivá matka. Nebo špatně dopadneš. Bedřich však neposlechl a dál se škrábal na nose. Škrábe se, škrábe, a najednou kouká, nos je pryč. Upadl. Upadl i s nepříjemnou vyrážkou. Tak vidíš, zaradoval se Bedřich. Vyrážka je pryč. A odešel dolů do hostince, aby to oslavil.
 
   

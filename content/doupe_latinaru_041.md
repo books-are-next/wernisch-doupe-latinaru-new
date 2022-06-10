@@ -3,8 +3,6 @@ title: Ji Yung vypráví
 contentType: prose
 ---
 
-  
-
 Tian Bu-man jednou v opilosti zabloudil na hřbitov a zakopl o lebku.
 
 „Ještě jednou na mě šlápneš a uvidíš!“ vykřikla za ním lebka.

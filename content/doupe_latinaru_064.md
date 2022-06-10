@@ -3,8 +3,6 @@ title: '* * *'
 contentType: prose
 ---
 
-  
-
 V domě kupce Ivanova se smějí dámy. Žbluňká v nich čaj. Měl bych o čemsi přemýšlet a snad i vyprávět, ale zas usínám. Zas přinášejí konvičku a lijí mi vodu na ruce. Pak mne posazují na zapřáhnutého koně a otevírají vrata. Až v polích se ohlédám – ve vozíku sedí stařec.
 
 „Zastav,“ říká a odříkává, čemu ho naučili u stolu: „Jsemť já Józa, generál ve výslužbě, a jedu na táčky a na paštiku do domu kupce Ivanova, povez mne rychleji a dám ti tento svatý a zlatý řád.“ A bije mne i koně svou hůlkou.

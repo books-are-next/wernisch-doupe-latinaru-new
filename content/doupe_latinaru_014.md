@@ -3,6 +3,8 @@ title: "Náčrtdvou i\_více básní"
 contentType: prose
 ---
 
+  
+
              kdyby jedna byla        zde vpravo by,  
          zde vlevo                              kdyby zde byla,  
      nutně by se                                         byla báseň,  
@@ -12,6 +14,8 @@ je zde vlevo                                  
     od básně, která                                      odlišovala  
         by, kdyby byla vpravo         právě tím, že by  
             byla vpravo                          byla vpravo
+
+  
 
 _(Račte si povšimnout toho,  
 co vzniká mezi levou a pravou dosud-nikoli-básní.  

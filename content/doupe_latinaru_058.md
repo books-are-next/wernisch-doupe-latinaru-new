@@ -3,8 +3,6 @@ title: Sibiřská pohádka
 contentType: prose
 ---
 
-  
-
 Odsloužil voják u cara pět dlouhých let a pak dvacet ještě delších a vydal se na cestu domů. Byla právě zima, zrovna chumelilo, šel, šel, k večeru přišel do vesnice u lesa. Je tu ticho, ani pes nezakňučí, mužici se hřejou, zapřeli dveře záporami, zastrčili petlice, měsíček taky zalezl, voják chodí potmě od chalupy k chalupě, všude bouchá a nikde mu neotvírají. Nu co, říká si. Caru jsem již dosti sloužil, tak tedy umřu.
 
 Ale najednou, najednou se otevřela vrata velikého dvora, bohatcova hospodyně vyšla pro vodu. Jen přešla, voják šup do tepla, honem do světnice. Tam, na pícce, vyspává hospodář. Voják svlékl kabát a zouvá boty, že si taky lehne, ale už je tu zase hospodyně s plnými vědry a křičí:
@@ -32,8 +30,6 @@ Tak začni, poručil boháč.
 A voják začal:
 
 Byla jednou jedna vesnice u lesa, v té vesnici žil hospodář a s ním jeho žena. A jednou v zimě k nim přišel na návštěvu voják…
-
-  
 
 Vyprávěl voják, vyprávěl, a tu se stalo něco, co se může stát jen v pohádce: voják i hospodář, oba se proměnili v hnědé medvědy a odběhli do lesa. Vyhrabali si brloh pod zelenou jedlí, leželi tam na boku a cucali si tlapu.
 

@@ -3,8 +3,6 @@ title: "↓\_↓\_↓Petru Kabešovi"
 contentType: prose
 ---
 
-  
-
 A NENÍ SNAD PROČ BÝTI VESEL? → Lefošky, jehlovky, perkusionky zde p. t. milovníkům střelby se odporučují. Kapslstoucky a rozličné bambitky zde pro milovníky. Prochor Filipovič ale, pouhého kukátka maje, cizí, veselou zemi zpytuje. V nevídané soustředěnosti a lahodě. Není snad proč býti vesel při úpatí Vesuvu?
 
   

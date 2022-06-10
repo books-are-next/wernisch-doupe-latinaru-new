@@ -5,8 +5,6 @@ contentType: prose
 
 Evženu Brikciusovi
 
-  
-
 Měl jsem přítele, který se jmenoval Zdaslaf Mraskano. Tento Mraskano, znamenitý latiník, pocházel z jedné samoty vzdálené nejméně sedm chůzí od města. Proto vždy po vyučování čekal naň před gymnáziem šestikolový vozík. Proč tolikakolový? Inu, byl ten Mraskano pořádný tlouštík! Méněkolový vozík rozlomil by se pod ním vpůli.
 
   

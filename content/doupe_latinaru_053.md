@@ -3,6 +3,8 @@ title: Prší
 contentType: prose
 ---
 
+<section>
+
 (Podle)
 
 Prší  
@@ -15,3 +17,5 @@ aby je přešel vztek na ženský,
 cikánky vychlastaj sedum nebo vosum,  
 aby je přešel vztek  
 na jejich mužský.
+
+</section>

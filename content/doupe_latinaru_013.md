@@ -3,6 +3,8 @@ title: Vyvrcholení žádostných slastí
 contentType: prose
 ---
 
+<section>
+
 Jeden Bedřich, povoláním saldokontista, jednou napsal sbírku veršovaných básní. Nejdříve napsal jednu báseň, pak druhou, pak třetí, čtvrtou, pátou a tak dále, až jich měl deset, tedy celou sbírku. Nazval ji Vyvrcholení žádostných slastí a odebral se s ní za svým nejlepším přítelem, rovněž saldokontistou, kterýžto si hned všech deset básní pozorně přečetl a pravil: Úžasné, ty jsi, Bedřichu, básník!
 
 Také mám ten dojem, řekl Bedřich a šel domů spát, protože doba už byla pokročilá.
@@ -18,3 +20,5 @@ A Bedřich pravil: Víš, co je na tvých básních zvláštní? Že jsou úpln
 Vskutku? podivil se přítel. A po chvíli přemýšlení dodal: Není však na tvých básních zvláštní přesně totéž?
 
 No jo… podivil se Bedřich. Na mých básních je zvláštní přesně totéž.
+
+</section>

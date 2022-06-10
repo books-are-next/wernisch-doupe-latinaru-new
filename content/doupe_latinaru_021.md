@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Z mého života  
 _(Dichtung und Wahrheit)_
 
@@ -25,3 +27,5 @@ při výletě parníkem, zatímco
 jeden známý vypadl z vlaku.  
 Měl dojet do Prahy, ale vypadl  
 již v Netolicích!
+
+</section>

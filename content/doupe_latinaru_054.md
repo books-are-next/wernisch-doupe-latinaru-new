@@ -3,6 +3,8 @@ title: "O\_ženách, které vařily kaši"
 contentType: prose
 ---
 
+<section>
+
 Jedna žena, která žila v lese, přišla k jiné, která žila v lese. Řekla: Pojď, budeme vařit kaši!
 
 Dobře, ale napřed budu vařit já! řekla druhá žena.
@@ -42,3 +44,5 @@ Jdi udělat kaši! řekl muž.
 Ale ona nepřestala naříkat.
 
 Muž se rozzlobil. Udělám tedy kaši sám! řekl a ženu zabil.
+
+</section>

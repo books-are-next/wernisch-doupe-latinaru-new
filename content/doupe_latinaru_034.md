@@ -3,6 +3,8 @@ title: Kolotoč
 contentType: prose
 ---
 
+<section>
+
 Zaručeně pravý příběh ze života. Předneseno stolní společnosti v Z.:
 
 Vystoupil jsem z vlaku, vypráví podomní prodavač talmudů a biblí, v malém městečku v Bukovině. Najal jsem drožku, a než jsem se v ní stačil usadit, stála před hotelem. Jmenoval se Nový York a zdálo se, že bude útulný.
@@ -50,3 +52,5 @@ Tak mi řekněte, kde jsem já!
 Vždyť říkám, povídá drožkář. A dodává: Tak nasedejte, zdržujete mě!
 
 A jeli jsme. Nádraží bylo daleko, dobré tři hodiny, z toho dvě lesem. Už jsem se raději na nic neptal.
+
+</section>

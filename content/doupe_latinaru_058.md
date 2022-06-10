@@ -3,6 +3,8 @@ title: Sibiřská pohádka
 contentType: prose
 ---
 
+<section>
+
 Odsloužil voják u cara pět dlouhých let a pak dvacet ještě delších a vydal se na cestu domů. Byla právě zima, zrovna chumelilo, šel, šel, k večeru přišel do vesnice u lesa. Je tu ticho, ani pes nezakňučí, mužici se hřejou, zapřeli dveře záporami, zastrčili petlice, měsíček taky zalezl, voják chodí potmě od chalupy k chalupě, všude bouchá a nikde mu neotvírají. Nu co, říká si. Caru jsem již dosti sloužil, tak tedy umřu.
 
 Ale najednou, najednou se otevřela vrata velikého dvora, bohatcova hospodyně vyšla pro vodu. Jen přešla, voják šup do tepla, honem do světnice. Tam, na pícce, vyspává hospodář. Voják svlékl kabát a zouvá boty, že si taky lehne, ale už je tu zase hospodyně s plnými vědry a křičí:
@@ -59,7 +61,9 @@ Odejdu, až se uzdravím, povídá voják. A do té doby ti za každý den budu
 
 Tak to je jiná! Hospodář se zaradoval a hned kouká, čím by se vojákovi zavděčil.
 
-  
+</section>
+
+<section>
 
 Proležel voják v chalupě jeden rok a tři měsíce, rozloučil se a šel. Stříbrných rublů už měl mužik plné vědro, které zamykal do truhly.
 
@@ -130,3 +134,5 @@ I podivili se dvořané carským slovům. A car se rozhlédl a pochopil, že 
 Jdi domů, řekl vojákovi.
 
 A voják šel domů.
+
+</section>

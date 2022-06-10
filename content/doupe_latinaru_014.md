@@ -3,9 +3,9 @@ title: "Náčrtdvou i\_více básní"
 contentType: prose
 ---
 
-  
+<section>
 
-             kdyby jedna byla        zde vpravo by,  
+kdyby jedna byla        zde vpravo by,  
          zde vlevo                              kdyby zde byla,  
      nutně by se                                         byla báseň,  
    právě tím, že                                           která by se  
@@ -15,9 +15,13 @@ je zde vlevo                                  
         by, kdyby byla vpravo         právě tím, že by  
             byla vpravo                          byla vpravo
 
-  
+</section>
+
+<section>
 
 _(Račte si povšimnout toho,  
 co vzniká mezi levou a pravou dosud-nikoli-básní.  
 Zatím tu není nic, je to však již dosti smysluplně  
 vybouleno doleva i doprava.)_
+
+</section>

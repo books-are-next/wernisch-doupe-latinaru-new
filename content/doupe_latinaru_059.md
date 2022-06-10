@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Z cara Maxmiliána
 
 (Podle)
@@ -24,3 +26,5 @@ uděláme z hlavy placku,
 dáme na to náplast — facku,  
 pak polenem do zátylku  
 a pošleme pro butylku.
+
+</section>

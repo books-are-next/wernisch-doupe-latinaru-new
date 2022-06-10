@@ -3,6 +3,8 @@ title: Sborová deklamace
 contentType: prose
 ---
 
+<section>
+
 Deklamovali, anebo byli deklamováni: Jasiński, Petr Anikič, Mark Patrikjevič, generál Ďukov, Ščerbakov, Gavrila a nějaký Gorděj, toho jsem dobře znal.
 
 Dál vrchní rada čestný plukovník andělského vojska Kwiat­kowski, paní Swiglińská, Spiridon Serapidonovič, otec Ilarij. Nikoli lidé. Postavy z nějakého románu.
@@ -14,3 +16,5 @@ Jednou, nebo jen dvakrát, nebo jen třikrát jsem praštil Gorděje do zad, a 
 Avšak rozsvítila se znovu, když Gorděj zapálil lampu, aby si rybku blíže prohlédl.
 
 „To bylo ve vodě, jíž jsem se napil? Myslil jsem, že je to kousek ledu.“
+
+</section>

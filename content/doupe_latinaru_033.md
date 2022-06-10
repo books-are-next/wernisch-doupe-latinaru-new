@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Jednou
 
 Jednou  
@@ -22,3 +24,5 @@ zcela ohromen
 před nádražím  
 hleděl  
 na všechno to hemžení kolem
+
+</section>

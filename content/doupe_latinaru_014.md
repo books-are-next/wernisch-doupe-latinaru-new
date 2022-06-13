@@ -6,14 +6,14 @@ contentType: prose
 <section>
 
 kdyby jedna byla        zde vpravo by,  
-         zde vlevo                              kdyby zde byla,  
-     nutně by se                                         byla báseň,  
-   právě tím, že                                           která by se  
-je zde vlevo                                          od básně, která  
-  lišila                                                        by byla vlevo,  
-    od básně, která                                      odlišovala  
+         zde vlevo            kdyby zde byla,  
+     nutně by se            byla báseň,  
+   právě tím, že            která by se  
+je zde vlevo            od básně, která  
+  lišila            by byla vlevo,  
+    od básně, která            odlišovala  
         by, kdyby byla vpravo         právě tím, že by  
-            byla vpravo                          byla vpravo
+            byla vpravo            byla vpravo
 
 </section>
 

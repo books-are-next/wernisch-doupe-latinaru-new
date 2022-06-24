@@ -6,10 +6,13 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Wernisch",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-11-07T00:00:00.000Z"
+      "modified": "2019-11-07T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP-uroven2-basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -18,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
-      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP-dopis--I\nMLP-dopis-podpis--I",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I\nMLP-citat",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis--I\nMLP-dopis-podpis--I",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b",
       "remove": "",
       "ignore": "",
       "verse": "MLP-verse\nMLP-verse.+"
@@ -38,7 +41,7 @@
             "filename": "doupe_latinaru_001.md",
             "xhtml": "doupe_latinaru_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -50,7 +53,7 @@
             "filename": "doupe_latinaru_002.md",
             "xhtml": "doupe_latinaru_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -62,7 +65,7 @@
             "filename": "doupe_latinaru_003.md",
             "xhtml": "doupe_latinaru_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -74,7 +77,7 @@
             "filename": "doupe_latinaru_004.md",
             "xhtml": "doupe_latinaru_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -91,8 +94,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "doupe_latinaru_006.md",
@@ -105,7 +109,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "Věnování"
           },
           {
             "filename": "doupe_latinaru_007.md",
@@ -441,7 +445,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_033.md",
@@ -504,7 +508,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_038.md",
@@ -530,7 +534,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_040.md",
@@ -569,7 +573,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_043.md",
@@ -660,7 +664,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_050.md",
@@ -751,7 +755,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_057.md",
@@ -764,7 +768,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_058.md",
@@ -854,7 +858,7 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_065.md",
@@ -893,13 +897,13 @@
             "devoured": false,
             "hiddenTitle": false,
             "children": [],
-            "title": "\\* \\* \\*"
+            "title": "* * *"
           },
           {
             "filename": "doupe_latinaru_068.md",
             "xhtml": "doupe_latinaru_068.xhtml",
             "id": 67,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,

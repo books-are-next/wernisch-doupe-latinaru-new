@@ -33,6 +33,10 @@ A voják začal:
 
 Byla jednou jedna vesnice u lesa, v té vesnici žil hospodář a s ním jeho žena. A jednou v zimě k nim přišel na návštěvu voják…
 
+</section>
+
+<section>
+
 Vyprávěl voják, vyprávěl, a tu se stalo něco, co se může stát jen v pohádce: voják i hospodář, oba se proměnili v hnědé medvědy a odběhli do lesa. Vyhrabali si brloh pod zelenou jedlí, leželi tam na boku a cucali si tlapu.
 
 Přišlo jaro a medvědi vylezli. A koukají, támhle se pase kráva. Hned ji roztrhali a sežrali.

@@ -5,10 +5,10 @@ contentType: prose
 
 <section>
 
-Čeho se naděju… nepotěším se asi.  
-Nejsem ze smutných a k veselosti  
-mám jako k smrti — daleko, blízko —  
-nevím, kde je.
+> Čeho se naděju… nepotěším se asi.  
+> Nejsem ze smutných a k veselosti  
+> mám jako k smrti — daleko, blízko —  
+> nevím, kde je.
 
 </section>
 

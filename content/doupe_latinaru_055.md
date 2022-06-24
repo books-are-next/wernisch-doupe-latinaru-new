@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
-(Podle Frobenia)
+_(Podle Frobenia)_
+
+</section>
+
+<section>
 
 Půpa a djojo spolu žili v lese. To bylo tenkrát. Tenkrát ještě nežili ti dva na svých místech, ale venku v lese.
 

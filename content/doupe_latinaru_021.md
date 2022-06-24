@@ -1,12 +1,9 @@
 ---
-title: ''
+title: "Z\_mého života(Dichtung und Wahrheit)"
 contentType: prose
 ---
 
 <section>
-
-Z mého života  
-_(Dichtung und Wahrheit)_
 
 W. píše: Z mého života: V Blovicích  
 jeden známý se dusil gumovým palcem,  

@@ -158,7 +158,7 @@ tocBase:
         title: Náčrt básně
         hiddenTitle: false
       - link: doupe_latinaru_032.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_034.html
         title: Kolotoč
@@ -167,13 +167,13 @@ tocBase:
         title: Náčrt básně
         hiddenTitle: false
       - link: doupe_latinaru_037.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_038.html
         title: Dlouhý den
         hiddenTitle: false
       - link: doupe_latinaru_039.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_040.html
         title: Strašidelný pivovar
@@ -182,7 +182,7 @@ tocBase:
         title: Ji Yung vypráví
         hiddenTitle: false
       - link: doupe_latinaru_042.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_043.html
         title: Mecenáš Hlávkajednoho dopoledne
@@ -203,7 +203,7 @@ tocBase:
         title: Jarní vlání
         hiddenTitle: false
       - link: doupe_latinaru_049.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_050.html
         title: Konec světa
@@ -224,10 +224,10 @@ tocBase:
         title: "Půpa a\_djojo"
         hiddenTitle: false
       - link: doupe_latinaru_056.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_057.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_058.html
         title: Sibiřská pohádka
@@ -245,7 +245,7 @@ tocBase:
         title: "↓\_↓\_↓Petru Kabešovi"
         hiddenTitle: false
       - link: doupe_latinaru_064.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
       - link: doupe_latinaru_065.html
         title: To kdy kdo
@@ -254,7 +254,7 @@ tocBase:
         title: Když není vyhnutí
         hiddenTitle: false
       - link: doupe_latinaru_067.html
-        title: '* * *'
+        title: \* \* \*
         hiddenTitle: false
     isSection: true
     listType: plain

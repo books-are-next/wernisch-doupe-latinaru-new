@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Doupě latinářů",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Wernisch",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-11-07T00:00:00.000Z"
+      "modified": "2019-11-07T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP-uroven2-basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -17,64 +21,69 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP-dopis--I\nMLP-dopis-podpis--I",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I\nMLP-citat",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP-dopis--I\nMLP-dopis-podpis--I",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "doupe_latinaru_001.md",
             "xhtml": "doupe_latinaru_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_002.md",
             "xhtml": "doupe_latinaru_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_003.md",
             "xhtml": "doupe_latinaru_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_004.md",
             "xhtml": "doupe_latinaru_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_005.md",
@@ -85,7 +94,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Citát"
           },
           {
             "filename": "doupe_latinaru_006.md",
@@ -96,7 +107,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "doupe_latinaru_007.md",
@@ -107,7 +120,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Otravná pohádka pro otravná pacholátka"
           },
           {
             "filename": "doupe_latinaru_008.md",
@@ -118,7 +133,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mecenáš Hlávkajednoho večera"
           },
           {
             "filename": "doupe_latinaru_009.md",
@@ -129,7 +146,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dobrá rada"
           },
           {
             "filename": "doupe_latinaru_010.md",
@@ -140,7 +159,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zvrhlík"
           },
           {
             "filename": "doupe_latinaru_011.md",
@@ -151,7 +172,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "A tohle město"
           },
           {
             "filename": "doupe_latinaru_012.md",
@@ -162,7 +185,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Malý kouzelník"
           },
           {
             "filename": "doupe_latinaru_013.md",
@@ -173,7 +198,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Vyvrcholení žádostných slastí"
           },
           {
             "filename": "doupe_latinaru_014.md",
@@ -184,7 +211,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náčrtdvou i více básní"
           },
           {
             "filename": "doupe_latinaru_015.md",
@@ -195,7 +224,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "To jsou řeči"
           },
           {
             "filename": "doupe_latinaru_016.md",
@@ -206,7 +237,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Doupě latinářů"
           },
           {
             "filename": "doupe_latinaru_017.md",
@@ -217,7 +250,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poučení o perspektivě"
           },
           {
             "filename": "doupe_latinaru_018.md",
@@ -228,7 +263,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kanape"
           },
           {
             "filename": "doupe_latinaru_019.md",
@@ -239,7 +276,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Lidé z jedné vsia lidé z druhé vsi"
           },
           {
             "filename": "doupe_latinaru_020.md",
@@ -250,7 +289,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zlý pes"
           },
           {
             "filename": "doupe_latinaru_021.md",
@@ -261,7 +302,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_022.md",
@@ -272,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náhlé vzplanutí"
           },
           {
             "filename": "doupe_latinaru_023.md",
@@ -283,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři sousedé"
           },
           {
             "filename": "doupe_latinaru_024.md",
@@ -294,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Feng Meng-longo Liovi Dong-jangovi"
           },
           {
             "filename": "doupe_latinaru_025.md",
@@ -305,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři Fuové"
           },
           {
             "filename": "doupe_latinaru_026.md",
@@ -316,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Tři sousedé"
           },
           {
             "filename": "doupe_latinaru_027.md",
@@ -327,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "A jiný Bedřich"
           },
           {
             "filename": "doupe_latinaru_028.md",
@@ -338,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Nesetkání"
           },
           {
             "filename": "doupe_latinaru_029.md",
@@ -349,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "A jindy"
           },
           {
             "filename": "doupe_latinaru_030.md",
@@ -360,7 +418,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_031.md",
@@ -371,7 +430,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náčrt básně"
           },
           {
             "filename": "doupe_latinaru_032.md",
@@ -382,7 +443,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_033.md",
@@ -393,7 +456,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_034.md",
@@ -404,7 +468,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kolotoč"
           },
           {
             "filename": "doupe_latinaru_035.md",
@@ -415,7 +481,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Náčrt básně"
           },
           {
             "filename": "doupe_latinaru_036.md",
@@ -426,7 +494,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_037.md",
@@ -437,7 +506,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_038.md",
@@ -448,7 +519,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dlouhý den"
           },
           {
             "filename": "doupe_latinaru_039.md",
@@ -459,7 +532,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_040.md",
@@ -470,7 +545,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Strašidelný pivovar"
           },
           {
             "filename": "doupe_latinaru_041.md",
@@ -481,7 +558,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ji Yung vypráví"
           },
           {
             "filename": "doupe_latinaru_042.md",
@@ -492,7 +571,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_043.md",
@@ -503,7 +584,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Mecenáš Hlávkajednoho dopoledne"
           },
           {
             "filename": "doupe_latinaru_044.md",
@@ -514,7 +597,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zasláno"
           },
           {
             "filename": "doupe_latinaru_045.md",
@@ -525,7 +610,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Zasláno"
           },
           {
             "filename": "doupe_latinaru_046.md",
@@ -536,7 +623,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Časné odpoledne"
           },
           {
             "filename": "doupe_latinaru_047.md",
@@ -547,7 +636,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V zámeckém parku"
           },
           {
             "filename": "doupe_latinaru_048.md",
@@ -558,7 +649,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Jarní vlání"
           },
           {
             "filename": "doupe_latinaru_049.md",
@@ -569,7 +662,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_050.md",
@@ -580,7 +675,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Konec světa"
           },
           {
             "filename": "doupe_latinaru_051.md",
@@ -591,7 +688,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Rybí zpěv"
           },
           {
             "filename": "doupe_latinaru_052.md",
@@ -602,7 +701,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Byl jednou jeden Bedřich"
           },
           {
             "filename": "doupe_latinaru_053.md",
@@ -613,7 +714,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Prší"
           },
           {
             "filename": "doupe_latinaru_054.md",
@@ -624,7 +727,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "O ženách, které vařily kaši"
           },
           {
             "filename": "doupe_latinaru_055.md",
@@ -635,7 +740,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Půpa a djojo"
           },
           {
             "filename": "doupe_latinaru_056.md",
@@ -646,7 +753,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_057.md",
@@ -657,7 +766,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_058.md",
@@ -668,7 +779,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sibiřská pohádka"
           },
           {
             "filename": "doupe_latinaru_059.md",
@@ -679,7 +792,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "doupe_latinaru_060.md",
@@ -690,7 +804,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Sborová deklamace"
           },
           {
             "filename": "doupe_latinaru_061.md",
@@ -701,7 +817,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Město"
           },
           {
             "filename": "doupe_latinaru_062.md",
@@ -712,7 +830,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Stmívání v Uhrách"
           },
           {
             "filename": "doupe_latinaru_063.md",
@@ -723,7 +843,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "↓ ↓ ↓Petru Kabešovi"
           },
           {
             "filename": "doupe_latinaru_064.md",
@@ -734,7 +856,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_065.md",
@@ -745,7 +869,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "To kdy kdo"
           },
           {
             "filename": "doupe_latinaru_066.md",
@@ -756,7 +882,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Když není vyhnutí"
           },
           {
             "filename": "doupe_latinaru_067.md",
@@ -767,18 +895,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "\\* \\* \\*"
           },
           {
             "filename": "doupe_latinaru_068.md",
             "xhtml": "doupe_latinaru_068.xhtml",
             "id": 67,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -914,7 +1045,7 @@
         "xhtml": "doupe_latinaru_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Z mého života(Dichtung und Wahrheit)",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_021.md",
         "xhtml": "doupe_latinaru_021.xhtml"
@@ -968,7 +1099,7 @@
         "xhtml": "doupe_latinaru_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Baže",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_030.md",
         "xhtml": "doupe_latinaru_030.xhtml"
@@ -986,7 +1117,7 @@
         "xhtml": "doupe_latinaru_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jednou",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_033.md",
         "xhtml": "doupe_latinaru_033.xhtml"
@@ -1004,7 +1135,7 @@
         "xhtml": "doupe_latinaru_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šel",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_036.md",
         "xhtml": "doupe_latinaru_036.xhtml"
@@ -1142,7 +1273,7 @@
         "xhtml": "doupe_latinaru_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Z cara Maxmiliána",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_059.md",
         "xhtml": "doupe_latinaru_059.xhtml"
@@ -1279,6 +1410,6 @@
       "user": "books-are-next",
       "repo": "wernisch-doupe-latinaru-new"
     },
-    "generatedAt": 1653041521967
+    "generatedAt": 1657185974376
   }
 }

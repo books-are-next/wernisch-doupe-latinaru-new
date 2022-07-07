@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Jednou
 contentType: prose
 ---
 
-Jednou
+<section>
 
 Jednou  
 jen kousek od nádraží  
@@ -22,3 +22,5 @@ zcela ohromen
 před nádražím  
 hleděl  
 na všechno to hemžení kolem
+
+</section>

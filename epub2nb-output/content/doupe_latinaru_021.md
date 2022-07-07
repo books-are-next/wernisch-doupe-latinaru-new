@@ -1,10 +1,9 @@
 ---
-title: ''
+title: "Z\_mého života(Dichtung und Wahrheit)"
 contentType: prose
 ---
 
-Z mého života  
-_(Dichtung und Wahrheit)_
+<section>
 
 W. píše: Z mého života: V Blovicích  
 jeden známý se dusil gumovým palcem,  
@@ -25,3 +24,5 @@ při výletě parníkem, zatímco
 jeden známý vypadl z vlaku.  
 Měl dojet do Prahy, ale vypadl  
 již v Netolicích!
+
+</section>

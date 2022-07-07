@@ -3,7 +3,9 @@ title: Prší
 contentType: prose
 ---
 
-(Podle)
+<section>
+
+_(Podle)_
 
 Prší  
 a cikáni zapadli do výčepu.  
@@ -15,3 +17,5 @@ aby je přešel vztek na ženský,
 cikánky vychlastaj sedum nebo vosum,  
 aby je přešel vztek  
 na jejich mužský.
+
+</section>

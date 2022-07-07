@@ -1,9 +1,9 @@
 ---
-title: ''
+title: Šel
 contentType: prose
 ---
 
-Šel
+<section>
 
 Šel,  
 a ať přišel kam přišel,  
@@ -19,3 +19,5 @@ Kdyby byl býval přišel
 někam jinam, byl by  
 jinde, jistěže jedno kde, ale  
 jinde, a to nepochybně
+
+</section>

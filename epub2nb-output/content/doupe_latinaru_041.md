@@ -3,7 +3,7 @@ title: Ji Yung vypráví
 contentType: prose
 ---
 
-  
+<section>
 
 Tian Bu-man jednou v opilosti zabloudil na hřbitov a zakopl o lebku.
 
@@ -28,3 +28,5 @@ Lebka odpověděla: „Ráda bych, jsou však silní, narodili se ve šťastném
 „Tak mě neotravuj,“ pravil Tian Bu-man a nakopl lebku tak, že odlétla ke zdi, jen to cvaklo.
 
 „Vy lidé jste taky pěkná sebranka,“ kňourala, ale Tian Bu-man už si jí nevšímal a šel.
+
+</section>

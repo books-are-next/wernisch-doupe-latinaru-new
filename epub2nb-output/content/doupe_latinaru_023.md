@@ -3,7 +3,7 @@ title: Tři sousedé
 contentType: prose
 ---
 
-  
+<section>
 
 Tři sousedé, Hýta, Batul a lord Fountleroy, si vyšli do polí. Jdou, tu se Hýta shýbne a zvedne kámen.
 
@@ -34,3 +34,5 @@ A Hýta s Batulem si dítě prohlédnou a přesvědčují se, že je hodno po
 Pak lord Fountleroy dítě odhodí a to se rozkřičí.
 
 „Co to?“ diví se sousedé. „Najednou se rozkřičí a křičí a křičí. Nu, půjdeme dále.“
+
+</section>

@@ -3,7 +3,7 @@ title: Tři sousedé
 contentType: prose
 ---
 
-  
+<section>
 
 Tři sousedé se přeli, kdo z nich dává více milodarů na sirotky. Ten první povídá: Já dávám tolik milodarů na sirotky, že mě z toho někdy brní hlava. – Pch! na to druhý. To já dávám tolik milodarů na sirotky, že někdy zapomínám, kdo jsem! – Pche! zvolal třetí. Já dávám tolik milodarů na sirotky, že nejen zapomínám, kdo jsem, a brní mě z toho hlava, já dokonce vůbec nevím, co dělám! –
 
@@ -32,3 +32,5 @@ Eh co, řekl první.
 Eh co, řekl druhý.
 
 A třetí řekl: Eh co.
+
+</section>

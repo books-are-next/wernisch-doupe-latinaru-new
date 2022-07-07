@@ -1,0 +1,1390 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Doupě latinářů",
+  "author": "Ivan Wernisch",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "wernisch-doupe-latinaru-be10ec9",
+  "revision": "be10ec9",
+  "readingOrder": [
+    "promo.html",
+    "doupe_latinaru_005.html",
+    "doupe_latinaru_006.html",
+    "doupe_latinaru_007.html",
+    "doupe_latinaru_008.html",
+    "doupe_latinaru_009.html",
+    "doupe_latinaru_010.html",
+    "doupe_latinaru_011.html",
+    "doupe_latinaru_012.html",
+    "doupe_latinaru_013.html",
+    "doupe_latinaru_014.html",
+    "doupe_latinaru_015.html",
+    "doupe_latinaru_016.html",
+    "doupe_latinaru_017.html",
+    "doupe_latinaru_018.html",
+    "doupe_latinaru_019.html",
+    "doupe_latinaru_020.html",
+    "doupe_latinaru_021.html",
+    "doupe_latinaru_022.html",
+    "doupe_latinaru_023.html",
+    "doupe_latinaru_024.html",
+    "doupe_latinaru_025.html",
+    "doupe_latinaru_026.html",
+    "doupe_latinaru_027.html",
+    "doupe_latinaru_028.html",
+    "doupe_latinaru_029.html",
+    "doupe_latinaru_030.html",
+    "doupe_latinaru_031.html",
+    "doupe_latinaru_032.html",
+    "doupe_latinaru_033.html",
+    "doupe_latinaru_034.html",
+    "doupe_latinaru_035.html",
+    "doupe_latinaru_036.html",
+    "doupe_latinaru_037.html",
+    "doupe_latinaru_038.html",
+    "doupe_latinaru_039.html",
+    "doupe_latinaru_040.html",
+    "doupe_latinaru_041.html",
+    "doupe_latinaru_042.html",
+    "doupe_latinaru_043.html",
+    "doupe_latinaru_044.html",
+    "doupe_latinaru_045.html",
+    "doupe_latinaru_046.html",
+    "doupe_latinaru_047.html",
+    "doupe_latinaru_048.html",
+    "doupe_latinaru_049.html",
+    "doupe_latinaru_050.html",
+    "doupe_latinaru_051.html",
+    "doupe_latinaru_052.html",
+    "doupe_latinaru_053.html",
+    "doupe_latinaru_054.html",
+    "doupe_latinaru_055.html",
+    "doupe_latinaru_056.html",
+    "doupe_latinaru_057.html",
+    "doupe_latinaru_058.html",
+    "doupe_latinaru_059.html",
+    "doupe_latinaru_060.html",
+    "doupe_latinaru_061.html",
+    "doupe_latinaru_062.html",
+    "doupe_latinaru_063.html",
+    "doupe_latinaru_064.html",
+    "doupe_latinaru_065.html",
+    "doupe_latinaru_066.html",
+    "doupe_latinaru_067.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 07 2022 09:27:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657186063318
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "doupe_latinaru_005.html",
+      "toc": []
+    },
+    {
+      "title": "Doupě latinářů",
+      "file": "doupe_latinaru_005.html",
+      "words": 58,
+      "chars": 338,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "doupe_latinaru_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_006.html",
+      "words": 13,
+      "chars": 71,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "doupe_latinaru_005.html",
+      "next": "doupe_latinaru_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otravná pohádka pro otravná pacholátka",
+      "file": "doupe_latinaru_007.html",
+      "words": 113,
+      "chars": 629,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "doupe_latinaru_006.html",
+      "next": "doupe_latinaru_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otravná pohádka pro otravná pacholátka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mecenáš Hlávkajednoho večera",
+      "file": "doupe_latinaru_008.html",
+      "words": 122,
+      "chars": 779,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 4,
+      "prev": "doupe_latinaru_007.html",
+      "next": "doupe_latinaru_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mecenáš Hlávkajednoho večera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobrá rada",
+      "file": "doupe_latinaru_009.html",
+      "words": 135,
+      "chars": 815,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 5,
+      "prev": "doupe_latinaru_008.html",
+      "next": "doupe_latinaru_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobrá rada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvrhlík",
+      "file": "doupe_latinaru_010.html",
+      "words": 177,
+      "chars": 1189,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 6,
+      "prev": "doupe_latinaru_009.html",
+      "next": "doupe_latinaru_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvrhlík",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A tohle město",
+      "file": "doupe_latinaru_011.html",
+      "words": 201,
+      "chars": 1284,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 7,
+      "prev": "doupe_latinaru_010.html",
+      "next": "doupe_latinaru_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A tohle město",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malý kouzelník",
+      "file": "doupe_latinaru_012.html",
+      "words": 114,
+      "chars": 729,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 8,
+      "prev": "doupe_latinaru_011.html",
+      "next": "doupe_latinaru_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malý kouzelník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vyvrcholení žádostných slastí",
+      "file": "doupe_latinaru_013.html",
+      "words": 225,
+      "chars": 1387,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 9,
+      "prev": "doupe_latinaru_012.html",
+      "next": "doupe_latinaru_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vyvrcholení žádostných slastí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náčrtdvou i více básní",
+      "file": "doupe_latinaru_014.html",
+      "words": 77,
+      "chars": 507,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "doupe_latinaru_013.html",
+      "next": "doupe_latinaru_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náčrtdvou i více básní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To jsou řeči",
+      "file": "doupe_latinaru_015.html",
+      "words": 195,
+      "chars": 986,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 11,
+      "prev": "doupe_latinaru_014.html",
+      "next": "doupe_latinaru_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To jsou řeči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doupě latinářů",
+      "file": "doupe_latinaru_016.html",
+      "words": 556,
+      "chars": 3561,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "doupe_latinaru_015.html",
+      "next": "doupe_latinaru_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doupě latinářů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poučení o perspektivě",
+      "file": "doupe_latinaru_017.html",
+      "words": 142,
+      "chars": 754,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 13,
+      "prev": "doupe_latinaru_016.html",
+      "next": "doupe_latinaru_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poučení o perspektivě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kanape",
+      "file": "doupe_latinaru_018.html",
+      "words": 128,
+      "chars": 741,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 14,
+      "prev": "doupe_latinaru_017.html",
+      "next": "doupe_latinaru_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kanape",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lidé z jedné vsia lidé z druhé vsi",
+      "file": "doupe_latinaru_019.html",
+      "words": 266,
+      "chars": 1405,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 15,
+      "prev": "doupe_latinaru_018.html",
+      "next": "doupe_latinaru_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lidé z jedné vsia lidé z druhé vsi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlý pes",
+      "file": "doupe_latinaru_020.html",
+      "words": 146,
+      "chars": 839,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 16,
+      "prev": "doupe_latinaru_019.html",
+      "next": "doupe_latinaru_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlý pes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z mého života(Dichtung und Wahrheit)",
+      "file": "doupe_latinaru_021.html",
+      "words": 116,
+      "chars": 640,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 17,
+      "prev": "doupe_latinaru_020.html",
+      "next": "doupe_latinaru_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z mého života(Dichtung und Wahrheit)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náhlé vzplanutí",
+      "file": "doupe_latinaru_022.html",
+      "words": 104,
+      "chars": 591,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 18,
+      "prev": "doupe_latinaru_021.html",
+      "next": "doupe_latinaru_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náhlé vzplanutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři sousedé",
+      "file": "doupe_latinaru_023.html",
+      "words": 220,
+      "chars": 1258,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 19,
+      "prev": "doupe_latinaru_022.html",
+      "next": "doupe_latinaru_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři sousedé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Feng Meng-longo Liovi Dong-jangovi",
+      "file": "doupe_latinaru_024.html",
+      "words": 94,
+      "chars": 570,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 20,
+      "prev": "doupe_latinaru_023.html",
+      "next": "doupe_latinaru_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Feng Meng-longo Liovi Dong-jangovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři Fuové",
+      "file": "doupe_latinaru_025.html",
+      "words": 224,
+      "chars": 1295,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 21,
+      "prev": "doupe_latinaru_024.html",
+      "next": "doupe_latinaru_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři Fuové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři sousedé",
+      "file": "doupe_latinaru_026.html",
+      "words": 327,
+      "chars": 1809,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "doupe_latinaru_025.html",
+      "next": "doupe_latinaru_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři sousedé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A jiný Bedřich",
+      "file": "doupe_latinaru_027.html",
+      "words": 172,
+      "chars": 987,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 23,
+      "prev": "doupe_latinaru_026.html",
+      "next": "doupe_latinaru_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A jiný Bedřich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nesetkání",
+      "file": "doupe_latinaru_028.html",
+      "words": 131,
+      "chars": 832,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 24,
+      "prev": "doupe_latinaru_027.html",
+      "next": "doupe_latinaru_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nesetkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A jindy",
+      "file": "doupe_latinaru_029.html",
+      "words": 34,
+      "chars": 199,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 25,
+      "prev": "doupe_latinaru_028.html",
+      "next": "doupe_latinaru_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A jindy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Baže",
+      "file": "doupe_latinaru_030.html",
+      "words": 14,
+      "chars": 78,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 26,
+      "prev": "doupe_latinaru_029.html",
+      "next": "doupe_latinaru_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Baže",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náčrt básně",
+      "file": "doupe_latinaru_031.html",
+      "words": 119,
+      "chars": 714,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 27,
+      "prev": "doupe_latinaru_030.html",
+      "next": "doupe_latinaru_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náčrt básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_032.html",
+      "words": 57,
+      "chars": 310,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 28,
+      "prev": "doupe_latinaru_031.html",
+      "next": "doupe_latinaru_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jednou",
+      "file": "doupe_latinaru_033.html",
+      "words": 51,
+      "chars": 279,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 29,
+      "prev": "doupe_latinaru_032.html",
+      "next": "doupe_latinaru_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jednou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolotoč",
+      "file": "doupe_latinaru_034.html",
+      "words": 486,
+      "chars": 2797,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "doupe_latinaru_033.html",
+      "next": "doupe_latinaru_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolotoč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náčrt básně",
+      "file": "doupe_latinaru_035.html",
+      "words": 138,
+      "chars": 826,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 31,
+      "prev": "doupe_latinaru_034.html",
+      "next": "doupe_latinaru_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náčrt básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šel",
+      "file": "doupe_latinaru_036.html",
+      "words": 44,
+      "chars": 226,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "doupe_latinaru_035.html",
+      "next": "doupe_latinaru_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_037.html",
+      "words": 48,
+      "chars": 261,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 33,
+      "prev": "doupe_latinaru_036.html",
+      "next": "doupe_latinaru_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dlouhý den",
+      "file": "doupe_latinaru_038.html",
+      "words": 102,
+      "chars": 621,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 34,
+      "prev": "doupe_latinaru_037.html",
+      "next": "doupe_latinaru_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dlouhý den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_039.html",
+      "words": 165,
+      "chars": 980,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 35,
+      "prev": "doupe_latinaru_038.html",
+      "next": "doupe_latinaru_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strašidelný pivovar",
+      "file": "doupe_latinaru_040.html",
+      "words": 232,
+      "chars": 1603,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 36,
+      "prev": "doupe_latinaru_039.html",
+      "next": "doupe_latinaru_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strašidelný pivovar",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ji Yung vypráví",
+      "file": "doupe_latinaru_041.html",
+      "words": 158,
+      "chars": 888,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 37,
+      "prev": "doupe_latinaru_040.html",
+      "next": "doupe_latinaru_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ji Yung vypráví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_042.html",
+      "words": 53,
+      "chars": 270,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 38,
+      "prev": "doupe_latinaru_041.html",
+      "next": "doupe_latinaru_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mecenáš Hlávkajednoho dopoledne",
+      "file": "doupe_latinaru_043.html",
+      "words": 167,
+      "chars": 1019,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 39,
+      "prev": "doupe_latinaru_042.html",
+      "next": "doupe_latinaru_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mecenáš Hlávkajednoho dopoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zasláno",
+      "file": "doupe_latinaru_044.html",
+      "words": 256,
+      "chars": 1710,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 40,
+      "prev": "doupe_latinaru_043.html",
+      "next": "doupe_latinaru_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zasláno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zasláno",
+      "file": "doupe_latinaru_045.html",
+      "words": 132,
+      "chars": 785,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 41,
+      "prev": "doupe_latinaru_044.html",
+      "next": "doupe_latinaru_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zasláno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Časné odpoledne",
+      "file": "doupe_latinaru_046.html",
+      "words": 245,
+      "chars": 1373,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 42,
+      "prev": "doupe_latinaru_045.html",
+      "next": "doupe_latinaru_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Časné odpoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V zámeckém parku",
+      "file": "doupe_latinaru_047.html",
+      "words": 172,
+      "chars": 965,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 43,
+      "prev": "doupe_latinaru_046.html",
+      "next": "doupe_latinaru_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V zámeckém parku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jarní vlání",
+      "file": "doupe_latinaru_048.html",
+      "words": 121,
+      "chars": 680,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 44,
+      "prev": "doupe_latinaru_047.html",
+      "next": "doupe_latinaru_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jarní vlání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_049.html",
+      "words": 66,
+      "chars": 405,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 45,
+      "prev": "doupe_latinaru_048.html",
+      "next": "doupe_latinaru_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec světa",
+      "file": "doupe_latinaru_050.html",
+      "words": 33,
+      "chars": 191,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 46,
+      "prev": "doupe_latinaru_049.html",
+      "next": "doupe_latinaru_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rybí zpěv",
+      "file": "doupe_latinaru_051.html",
+      "words": 235,
+      "chars": 1284,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 47,
+      "prev": "doupe_latinaru_050.html",
+      "next": "doupe_latinaru_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rybí zpěv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Byl jednou jeden Bedřich",
+      "file": "doupe_latinaru_052.html",
+      "words": 163,
+      "chars": 991,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 48,
+      "prev": "doupe_latinaru_051.html",
+      "next": "doupe_latinaru_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Byl jednou jeden Bedřich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prší",
+      "file": "doupe_latinaru_053.html",
+      "words": 45,
+      "chars": 260,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 49,
+      "prev": "doupe_latinaru_052.html",
+      "next": "doupe_latinaru_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O ženách, které vařily kaši",
+      "file": "doupe_latinaru_054.html",
+      "words": 261,
+      "chars": 1405,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 50,
+      "prev": "doupe_latinaru_053.html",
+      "next": "doupe_latinaru_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O ženách, které vařily kaši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Půpa a djojo",
+      "file": "doupe_latinaru_055.html",
+      "words": 249,
+      "chars": 1300,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 51,
+      "prev": "doupe_latinaru_054.html",
+      "next": "doupe_latinaru_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Půpa a djojo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_056.html",
+      "words": 111,
+      "chars": 675,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 52,
+      "prev": "doupe_latinaru_055.html",
+      "next": "doupe_latinaru_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_057.html",
+      "words": 62,
+      "chars": 318,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 53,
+      "prev": "doupe_latinaru_056.html",
+      "next": "doupe_latinaru_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sibiřská pohádka",
+      "file": "doupe_latinaru_058.html",
+      "words": 1071,
+      "chars": 5973,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 54,
+      "prev": "doupe_latinaru_057.html",
+      "next": "doupe_latinaru_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sibiřská pohádka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z cara Maxmiliána",
+      "file": "doupe_latinaru_059.html",
+      "words": 77,
+      "chars": 402,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 55,
+      "prev": "doupe_latinaru_058.html",
+      "next": "doupe_latinaru_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z cara Maxmiliána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sborová deklamace",
+      "file": "doupe_latinaru_060.html",
+      "words": 164,
+      "chars": 1093,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 56,
+      "prev": "doupe_latinaru_059.html",
+      "next": "doupe_latinaru_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sborová deklamace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Město",
+      "file": "doupe_latinaru_061.html",
+      "words": 174,
+      "chars": 1073,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 57,
+      "prev": "doupe_latinaru_060.html",
+      "next": "doupe_latinaru_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Město",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stmívání v Uhrách",
+      "file": "doupe_latinaru_062.html",
+      "words": 209,
+      "chars": 1328,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 58,
+      "prev": "doupe_latinaru_061.html",
+      "next": "doupe_latinaru_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stmívání v Uhrách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "↓ ↓ ↓Petru Kabešovi",
+      "file": "doupe_latinaru_063.html",
+      "words": 238,
+      "chars": 1419,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 59,
+      "prev": "doupe_latinaru_062.html",
+      "next": "doupe_latinaru_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "↓ ↓ ↓Petru Kabešovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_064.html",
+      "words": 239,
+      "chars": 1254,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 60,
+      "prev": "doupe_latinaru_063.html",
+      "next": "doupe_latinaru_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To kdy kdo",
+      "file": "doupe_latinaru_065.html",
+      "words": 370,
+      "chars": 2071,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 61,
+      "prev": "doupe_latinaru_064.html",
+      "next": "doupe_latinaru_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To kdy kdo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když není vyhnutí",
+      "file": "doupe_latinaru_066.html",
+      "words": 162,
+      "chars": 930,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 62,
+      "prev": "doupe_latinaru_065.html",
+      "next": "doupe_latinaru_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když není vyhnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "doupe_latinaru_067.html",
+      "words": 55,
+      "chars": 272,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 63,
+      "prev": "doupe_latinaru_066.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 141,
+      "chars": 919,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "doupe_latinaru_067.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 10981,
+      "chars": 64181,
+      "ideas": 483
+    },
+    "chapters": {
+      "words": 10834,
+      "chars": 63224,
+      "ideas": 461
+    }
+  }
+}

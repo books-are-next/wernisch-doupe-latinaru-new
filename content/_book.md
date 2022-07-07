@@ -15,8 +15,6 @@ meta:
   edition: beletrie
 readingOrder:
   - promo.html
-  - doupe_latinaru_003.html
-  - doupe_latinaru_004.html
   - doupe_latinaru_005.html
   - doupe_latinaru_006.html
   - doupe_latinaru_007.html
@@ -80,7 +78,7 @@ readingOrder:
   - doupe_latinaru_065.html
   - doupe_latinaru_066.html
   - doupe_latinaru_067.html
-  - doupe_latinaru_068.html
+  - about.html
 tocBase:
   - id: section-1
     children:

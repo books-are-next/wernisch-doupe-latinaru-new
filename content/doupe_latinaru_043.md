@@ -1,5 +1,5 @@
 ---
-title: Mecenáš Hlávkajednoho dopoledne
+title: Mecenáš Hlávkaj ednoho dopoledne
 contentType: prose
 ---
 

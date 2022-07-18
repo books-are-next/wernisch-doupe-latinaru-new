@@ -135,7 +135,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Mecenáš Hlávkajednoho večera",
+            "title": "Mecenáš Hlávka jednoho večera",
             "children": []
           },
           {
@@ -589,7 +589,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Mecenáš Hlávkajednoho dopoledne",
+            "title": "Mecenáš Hlávka jednoho dopoledne",
             "children": []
           },
           {
@@ -973,7 +973,7 @@
         "xhtml": "doupe_latinaru_007.xhtml"
       },
       {
-        "titleSuggest": "Mecenáš Hlávkajednoho večera",
+        "titleSuggest": "Mecenáš Hlávka jednoho večera",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_008.md",
         "xhtml": "doupe_latinaru_008.xhtml"
@@ -1183,7 +1183,7 @@
         "xhtml": "doupe_latinaru_042.xhtml"
       },
       {
-        "titleSuggest": "Mecenáš Hlávkajednoho dopoledne",
+        "titleSuggest": "Mecenáš Hlávka jednoho dopoledne",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_043.md",
         "xhtml": "doupe_latinaru_043.xhtml"

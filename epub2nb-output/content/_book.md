@@ -92,7 +92,7 @@ tocBase:
         title: Otravná pohádka pro otravná pacholátka
         hiddenTitle: false
       - link: doupe_latinaru_008.html
-        title: Mecenáš Hlávkajednoho večera
+        title: Mecenáš Hlávka jednoho večera
         hiddenTitle: false
       - link: doupe_latinaru_009.html
         title: Dobrá rada
@@ -194,7 +194,7 @@ tocBase:
         title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_043.html
-        title: Mecenáš Hlávkajednoho dopoledne
+        title: Mecenáš Hlávka jednoho dopoledne
         hiddenTitle: false
       - link: doupe_latinaru_044.html
         title: Zasláno

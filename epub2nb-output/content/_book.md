@@ -110,7 +110,7 @@ tocBase:
         title: Vyvrcholení žádostných slastí
         hiddenTitle: false
       - link: doupe_latinaru_014.html
-        title: "Náčrtdvou i\_více básní"
+        title: "Náčrt dvou i\_více básní"
         hiddenTitle: false
       - link: doupe_latinaru_015.html
         title: To jsou řeči

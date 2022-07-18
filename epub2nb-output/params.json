@@ -213,7 +213,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Náčrtdvou i více básní",
+            "title": "Náčrt dvou i více básní",
             "children": []
           },
           {
@@ -1008,7 +1008,7 @@
         "xhtml": "doupe_latinaru_013.xhtml"
       },
       {
-        "titleSuggest": "Náčrtdvou i více básní",
+        "titleSuggest": "Náčrt dvou i více básní",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_014.md",
         "xhtml": "doupe_latinaru_014.xhtml"

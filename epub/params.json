@@ -174,7 +174,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "A tohle město",
+            "title": "A tohle město",
             "children": []
           },
           {
@@ -213,7 +213,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Náčrtdvou i více básní",
+            "title": "Náčrt dvou i více básní",
             "children": []
           },
           {
@@ -252,7 +252,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Poučení o perspektivě",
+            "title": "Poučení o perspektivě",
             "children": []
           },
           {
@@ -278,7 +278,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Lidé z jedné vsia lidé z druhé vsi",
+            "title": "Lidé z jedné vsi a lidé z druhé vsi",
             "children": []
           },
           {
@@ -304,8 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Z mého života (Dichtung und Wahrheit)"
+            "title": "Z mého života (Dichtung und Wahrheit)",
+            "children": []
           },
           {
             "filename": "doupe_latinaru_022.md",
@@ -343,7 +343,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Feng Meng-longo Liovi Dong-jangovi",
+            "title": "Feng Meng-longo Liovi Dong-jangovi",
             "children": []
           },
           {
@@ -382,7 +382,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "A jiný Bedřich",
+            "title": "A jiný Bedřich",
             "children": []
           },
           {
@@ -408,7 +408,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "A jindy",
+            "title": "A jindy",
             "children": []
           },
           {
@@ -421,7 +421,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Baže"
           },
           {
             "filename": "doupe_latinaru_031.md",
@@ -459,8 +460,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jednou"
+            "title": "Jednou",
+            "children": []
           },
           {
             "filename": "doupe_latinaru_034.md",
@@ -498,8 +499,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Šel"
+            "title": "Šel",
+            "children": []
           },
           {
             "filename": "doupe_latinaru_037.md",
@@ -641,7 +642,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "V zámeckém parku",
+            "title": "V zámeckém parku",
             "children": []
           },
           {
@@ -732,7 +733,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "O ženách, které vařily kaši",
+            "title": "O ženách, které vařily kaši",
             "children": []
           },
           {
@@ -745,7 +746,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Půpa a djojo",
+            "title": "Půpa a djojo",
             "children": []
           },
           {
@@ -797,8 +798,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Z cara Maxmiliána"
+            "title": "Z cara Maxmiliána",
+            "children": []
           },
           {
             "filename": "doupe_latinaru_060.md",
@@ -836,7 +837,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Stmívání v Uhrách",
+            "title": "Stmívání v Uhrách",
             "children": []
           },
           {
@@ -849,7 +850,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "↓ ↓ ↓Petru Kabešovi",
+            "title": "Petru Kabešovi",
             "children": []
           },
           {
@@ -991,7 +992,7 @@
         "xhtml": "doupe_latinaru_010.xhtml"
       },
       {
-        "titleSuggest": "A tohle město",
+        "titleSuggest": "A tohle město",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_011.md",
         "xhtml": "doupe_latinaru_011.xhtml"
@@ -1009,7 +1010,7 @@
         "xhtml": "doupe_latinaru_013.xhtml"
       },
       {
-        "titleSuggest": "Náčrtdvou i více básní",
+        "titleSuggest": "Náčrt dvou i více básní",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_014.md",
         "xhtml": "doupe_latinaru_014.xhtml"
@@ -1027,7 +1028,7 @@
         "xhtml": "doupe_latinaru_016.xhtml"
       },
       {
-        "titleSuggest": "Poučení o perspektivě",
+        "titleSuggest": "Poučení o perspektivě",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_017.md",
         "xhtml": "doupe_latinaru_017.xhtml"
@@ -1039,7 +1040,7 @@
         "xhtml": "doupe_latinaru_018.xhtml"
       },
       {
-        "titleSuggest": "Lidé z jedné vsia lidé z druhé vsi",
+        "titleSuggest": "Lidé z jedné vsi a lidé z druhé vsi",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_019.md",
         "xhtml": "doupe_latinaru_019.xhtml"
@@ -1051,7 +1052,7 @@
         "xhtml": "doupe_latinaru_020.xhtml"
       },
       {
-        "titleSuggest": "Z mého života(Dichtung und Wahrheit)",
+        "titleSuggest": "Z mého života(Dichtung und Wahrheit)",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_021.md",
         "xhtml": "doupe_latinaru_021.xhtml"
@@ -1069,7 +1070,7 @@
         "xhtml": "doupe_latinaru_023.xhtml"
       },
       {
-        "titleSuggest": "Feng Meng-longo Liovi Dong-jangovi",
+        "titleSuggest": "Feng Meng-longo Liovi Dong-jangovi",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_024.md",
         "xhtml": "doupe_latinaru_024.xhtml"
@@ -1087,7 +1088,7 @@
         "xhtml": "doupe_latinaru_026.xhtml"
       },
       {
-        "titleSuggest": "A jiný Bedřich",
+        "titleSuggest": "A jiný Bedřich",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_027.md",
         "xhtml": "doupe_latinaru_027.xhtml"
@@ -1099,7 +1100,7 @@
         "xhtml": "doupe_latinaru_028.xhtml"
       },
       {
-        "titleSuggest": "A jindy",
+        "titleSuggest": "A jindy",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_029.md",
         "xhtml": "doupe_latinaru_029.xhtml"
@@ -1207,7 +1208,7 @@
         "xhtml": "doupe_latinaru_046.xhtml"
       },
       {
-        "titleSuggest": "V zámeckém parku",
+        "titleSuggest": "V zámeckém parku",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_047.md",
         "xhtml": "doupe_latinaru_047.xhtml"
@@ -1249,13 +1250,13 @@
         "xhtml": "doupe_latinaru_053.xhtml"
       },
       {
-        "titleSuggest": "O ženách, které vařily kaši",
+        "titleSuggest": "O ženách, které vařily kaši",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_054.md",
         "xhtml": "doupe_latinaru_054.xhtml"
       },
       {
-        "titleSuggest": "Půpa a djojo",
+        "titleSuggest": "Půpa a djojo",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_055.md",
         "xhtml": "doupe_latinaru_055.xhtml"
@@ -1279,7 +1280,7 @@
         "xhtml": "doupe_latinaru_058.xhtml"
       },
       {
-        "titleSuggest": "Z cara Maxmiliána",
+        "titleSuggest": "Z cara Maxmiliána",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_059.md",
         "xhtml": "doupe_latinaru_059.xhtml"
@@ -1297,13 +1298,13 @@
         "xhtml": "doupe_latinaru_061.xhtml"
       },
       {
-        "titleSuggest": "Stmívání v Uhrách",
+        "titleSuggest": "Stmívání v Uhrách",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_062.md",
         "xhtml": "doupe_latinaru_062.xhtml"
       },
       {
-        "titleSuggest": "↓ ↓ ↓Petru Kabešovi",
+        "titleSuggest": "↓ ↓ ↓Petru Kabešovi",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_063.md",
         "xhtml": "doupe_latinaru_063.xhtml"
@@ -1416,6 +1417,6 @@
       "user": "books-are-next",
       "repo": "wernisch-doupe-latinaru-new"
     },
-    "generatedAt": 1657185974376
+    "generatedAt": 1658137570999
   }
 }

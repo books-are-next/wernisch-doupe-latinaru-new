@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-doupe-latinaru-be10ec9",
-  "revision": "be10ec9",
+  "identifier": "wernisch-doupe-latinaru-2617755",
+  "revision": "2617755",
   "readingOrder": [
     "promo.html",
     "doupe_latinaru_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:27:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186063318
+    "date": "Mon Jul 18 2022 08:51:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658134286270
   },
   "documents": [
     {
@@ -1358,7 +1358,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 919,
+      "chars": 920,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -1378,7 +1378,7 @@
   "totals": {
     "all": {
       "words": 10981,
-      "chars": 64181,
+      "chars": 64182,
       "ideas": 483
     },
     "chapters": {

@@ -125,7 +125,7 @@ tocBase:
         title: Kanape
         hiddenTitle: false
       - link: doupe_latinaru_019.html
-        title: "Lidé z\_jedné vsia\_lidé z\_druhé vsi"
+        title: "Lidé z\_jedné vsi a\_lidé z\_druhé vsi"
         hiddenTitle: false
       - link: doupe_latinaru_020.html
         title: Zlý pes

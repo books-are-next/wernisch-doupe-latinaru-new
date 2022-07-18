@@ -278,7 +278,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Lidé z jedné vsia lidé z druhé vsi",
+            "title": "Lidé z jedné vsi a lidé z druhé vsi",
             "children": []
           },
           {
@@ -1038,7 +1038,7 @@
         "xhtml": "doupe_latinaru_018.xhtml"
       },
       {
-        "titleSuggest": "Lidé z jedné vsia lidé z druhé vsi",
+        "titleSuggest": "Lidé z jedné vsi a lidé z druhé vsi",
         "subtitleSuggest": "",
         "filename": "doupe_latinaru_019.md",
         "xhtml": "doupe_latinaru_019.xhtml"

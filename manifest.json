@@ -375,7 +375,7 @@
       ]
     },
     {
-      "title": "Lidé z jedné vsia lidé z druhé vsi",
+      "title": "Lidé z jedné vsi a lidé z druhé vsi",
       "file": "doupe_latinaru_019.html",
       "words": 266,
       "chars": 1405,
@@ -388,7 +388,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lidé z jedné vsia lidé z druhé vsi",
+          "name": "Lidé z jedné vsi a lidé z druhé vsi",
           "id": null,
           "children": []
         }

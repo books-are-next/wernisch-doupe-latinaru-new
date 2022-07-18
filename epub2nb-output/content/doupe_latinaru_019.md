@@ -1,5 +1,5 @@
 ---
-title: "Lidé z\_jedné vsia\_lidé z\_druhé vsi"
+title: "Lidé z\_jedné vsi a\_lidé z\_druhé vsi"
 contentType: prose
 ---
 

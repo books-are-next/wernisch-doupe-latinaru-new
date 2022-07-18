@@ -15,9 +15,19 @@ je zde vlevo            od básně, která
         by, kdyby byla vpravo         právě tím, že by  
             byla vpravo            byla vpravo
 
+   
+
+<div class="centered">
+
+<div class="verse">
+
 _(Račte si povšimnout toho,  
 co vzniká mezi levou a pravou dosud-nikoli-básní.  
 Zatím tu není nic, je to však již dosti smysluplně  
 vybouleno doleva i doprava.)_
+
+</div>
+
+</div>
 
 </section>

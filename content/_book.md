@@ -86,7 +86,7 @@ tocBase:
         title: Citát
         hiddenTitle: true
       - link: doupe_latinaru_006.html
-        title: Věnování
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_007.html
         title: Otravná pohádka pro otravná pacholátka
@@ -130,6 +130,9 @@ tocBase:
       - link: doupe_latinaru_020.html
         title: Zlý pes
         hiddenTitle: false
+      - link: doupe_latinaru_021.html
+        title: "Z\_mého života (Dichtung und Wahrheit)"
+        hiddenTitle: false
       - link: doupe_latinaru_022.html
         title: Náhlé vzplanutí
         hiddenTitle: false
@@ -158,7 +161,10 @@ tocBase:
         title: Náčrt básně
         hiddenTitle: false
       - link: doupe_latinaru_032.html
-        title: \* \* \*
+        title: '* * *'
+        hiddenTitle: false
+      - link: doupe_latinaru_033.html
+        title: Jednou
         hiddenTitle: false
       - link: doupe_latinaru_034.html
         title: Kolotoč
@@ -166,14 +172,17 @@ tocBase:
       - link: doupe_latinaru_035.html
         title: Náčrt básně
         hiddenTitle: false
+      - link: doupe_latinaru_036.html
+        title: Šel
+        hiddenTitle: false
       - link: doupe_latinaru_037.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_038.html
         title: Dlouhý den
         hiddenTitle: false
       - link: doupe_latinaru_039.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_040.html
         title: Strašidelný pivovar
@@ -182,7 +191,7 @@ tocBase:
         title: Ji Yung vypráví
         hiddenTitle: false
       - link: doupe_latinaru_042.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_043.html
         title: Mecenáš Hlávkajednoho dopoledne
@@ -203,7 +212,7 @@ tocBase:
         title: Jarní vlání
         hiddenTitle: false
       - link: doupe_latinaru_049.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_050.html
         title: Konec světa
@@ -224,13 +233,16 @@ tocBase:
         title: "Půpa a\_djojo"
         hiddenTitle: false
       - link: doupe_latinaru_056.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_057.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_058.html
         title: Sibiřská pohádka
+        hiddenTitle: false
+      - link: doupe_latinaru_059.html
+        title: "Z\_cara Maxmiliána"
         hiddenTitle: false
       - link: doupe_latinaru_060.html
         title: Sborová deklamace
@@ -245,7 +257,7 @@ tocBase:
         title: "↓\_↓\_↓Petru Kabešovi"
         hiddenTitle: false
       - link: doupe_latinaru_064.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
       - link: doupe_latinaru_065.html
         title: To kdy kdo
@@ -254,7 +266,7 @@ tocBase:
         title: Když není vyhnutí
         hiddenTitle: false
       - link: doupe_latinaru_067.html
-        title: \* \* \*
+        title: '* * *'
         hiddenTitle: false
     isSection: true
     listType: plain

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-doupe-latinaru-2859aa1",
-  "revision": "2859aa1",
+  "identifier": "wernisch-doupe-latinaru-0d13359",
+  "revision": "0d13359",
   "readingOrder": [
     "promo.html",
     "doupe_latinaru_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 18 2022 09:48:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658137680739
+    "date": "Mon Jul 18 2022 10:41:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658140895947
   },
   "documents": [
     {
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "title": "Mecenáš Hlávka jednoho večera",
+      "title": "Mecenáš Hlávkajednoho večera",
       "file": "doupe_latinaru_008.html",
       "words": 122,
       "chars": 779,
@@ -168,7 +168,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mecenáš Hlávka jednoho večera",
+          "name": "Mecenáš Hlávkajednoho večera",
           "id": null,
           "children": []
         }
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "title": "Náčrt dvou i více básní",
+      "title": "Náčrtdvou i více básní",
       "file": "doupe_latinaru_014.html",
       "words": 77,
       "chars": 507,
@@ -288,7 +288,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Náčrt dvou i více básní",
+          "name": "Náčrtdvou i více básní",
           "id": null,
           "children": []
         }
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "title": "Lidé z jedné vsi a lidé z druhé vsi",
+      "title": "Lidé z jedné vsia lidé z druhé vsi",
       "file": "doupe_latinaru_019.html",
       "words": 266,
       "chars": 1405,
@@ -388,7 +388,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lidé z jedné vsi a lidé z druhé vsi",
+          "name": "Lidé z jedné vsia lidé z druhé vsi",
           "id": null,
           "children": []
         }
@@ -855,7 +855,7 @@
       ]
     },
     {
-      "title": "Mecenáš Hlávka jednoho dopoledne",
+      "title": "Mecenáš Hlávkajednoho dopoledne",
       "file": "doupe_latinaru_043.html",
       "words": 167,
       "chars": 1019,
@@ -868,7 +868,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mecenáš Hlávka jednoho dopoledne",
+          "name": "Mecenáš Hlávkajednoho dopoledne",
           "id": null,
           "children": []
         }

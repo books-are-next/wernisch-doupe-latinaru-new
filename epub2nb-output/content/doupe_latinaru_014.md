@@ -1,5 +1,5 @@
 ---
-title: "Náčrt dvou i\_více básní"
+title: "Náčrtdvou i\_více básní"
 contentType: prose
 ---
 

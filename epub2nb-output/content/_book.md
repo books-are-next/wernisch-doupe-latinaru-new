@@ -101,7 +101,7 @@ tocBase:
         title: Zvrhlík
         hiddenTitle: false
       - link: doupe_latinaru_011.html
-        title: "A\_tohle město"
+        title: A tohle město
         hiddenTitle: false
       - link: doupe_latinaru_012.html
         title: Malý kouzelník
@@ -110,7 +110,7 @@ tocBase:
         title: Vyvrcholení žádostných slastí
         hiddenTitle: false
       - link: doupe_latinaru_014.html
-        title: "Náčrt dvou i\_více básní"
+        title: Náčrt dvou i více básní
         hiddenTitle: false
       - link: doupe_latinaru_015.html
         title: To jsou řeči
@@ -119,19 +119,19 @@ tocBase:
         title: Doupě latinářů
         hiddenTitle: false
       - link: doupe_latinaru_017.html
-        title: "Poučení o\_perspektivě"
+        title: Poučení o perspektivě
         hiddenTitle: false
       - link: doupe_latinaru_018.html
         title: Kanape
         hiddenTitle: false
       - link: doupe_latinaru_019.html
-        title: "Lidé z\_jedné vsi a\_lidé z\_druhé vsi"
+        title: Lidé z jedné vsi a lidé z druhé vsi
         hiddenTitle: false
       - link: doupe_latinaru_020.html
         title: Zlý pes
         hiddenTitle: false
       - link: doupe_latinaru_021.html
-        title: "Z\_mého života (Dichtung und Wahrheit)"
+        title: Z mého života (Dichtung und Wahrheit)
         hiddenTitle: false
       - link: doupe_latinaru_022.html
         title: Náhlé vzplanutí
@@ -140,7 +140,7 @@ tocBase:
         title: Tři sousedé
         hiddenTitle: false
       - link: doupe_latinaru_024.html
-        title: "Feng Meng-longo\_Liovi Dong-jangovi"
+        title: Feng Meng-longo Liovi Dong-jangovi
         hiddenTitle: false
       - link: doupe_latinaru_025.html
         title: Tři Fuové
@@ -149,13 +149,16 @@ tocBase:
         title: Tři sousedé
         hiddenTitle: false
       - link: doupe_latinaru_027.html
-        title: "A\_jiný Bedřich"
+        title: A jiný Bedřich
         hiddenTitle: false
       - link: doupe_latinaru_028.html
         title: Nesetkání
         hiddenTitle: false
       - link: doupe_latinaru_029.html
-        title: "A\_jindy"
+        title: A jindy
+        hiddenTitle: false
+      - link: doupe_latinaru_030.html
+        title: Baže
         hiddenTitle: false
       - link: doupe_latinaru_031.html
         title: Náčrt básně
@@ -206,7 +209,7 @@ tocBase:
         title: Časné odpoledne
         hiddenTitle: false
       - link: doupe_latinaru_047.html
-        title: "V\_zámeckém parku"
+        title: V zámeckém parku
         hiddenTitle: false
       - link: doupe_latinaru_048.html
         title: Jarní vlání
@@ -227,10 +230,10 @@ tocBase:
         title: Prší
         hiddenTitle: false
       - link: doupe_latinaru_054.html
-        title: "O\_ženách, které vařily kaši"
+        title: O ženách, které vařily kaši
         hiddenTitle: false
       - link: doupe_latinaru_055.html
-        title: "Půpa a\_djojo"
+        title: Půpa a djojo
         hiddenTitle: false
       - link: doupe_latinaru_056.html
         title: '* * *'
@@ -242,7 +245,7 @@ tocBase:
         title: Sibiřská pohádka
         hiddenTitle: false
       - link: doupe_latinaru_059.html
-        title: "Z\_cara Maxmiliána"
+        title: Z cara Maxmiliána
         hiddenTitle: false
       - link: doupe_latinaru_060.html
         title: Sborová deklamace
@@ -251,10 +254,10 @@ tocBase:
         title: Město
         hiddenTitle: false
       - link: doupe_latinaru_062.html
-        title: "Stmívání v\_Uhrách"
+        title: Stmívání v Uhrách
         hiddenTitle: false
       - link: doupe_latinaru_063.html
-        title: "↓\_↓\_↓Petru Kabešovi"
+        title: Petru Kabešovi
         hiddenTitle: false
       - link: doupe_latinaru_064.html
         title: '* * *'

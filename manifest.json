@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "wernisch-doupe-latinaru-4a9159a",
-  "revision": "4a9159a",
+  "identifier": "wernisch-doupe-latinaru-1f485f8",
+  "revision": "1f485f8",
   "readingOrder": [
     "promo.html",
     "doupe_latinaru_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:38:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487511864
+    "date": "Sat Oct 01 2022 16:08:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640496896
   },
   "documents": [
     {

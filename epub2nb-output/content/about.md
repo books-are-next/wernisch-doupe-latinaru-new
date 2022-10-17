@@ -10,7 +10,8 @@ Edice Čeští básníci 20. století
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+ISBN 978-80-274-2842-7 (webová kniha)  
+V MKP 2. elektronické vydání z 17. 10. 2022.
 
 ***
 

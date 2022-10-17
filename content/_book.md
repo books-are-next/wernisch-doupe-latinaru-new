@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2842-7
 readingOrder:
   - promo.html
   - doupe_latinaru_005.html
